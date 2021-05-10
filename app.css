@@ -35,4 +35,6 @@ img.logo  {
   a {
     display: block;
     padding: 8px;
+    text-decoration: none;
+    color: rgba(0,0,0,0.87);
   }
