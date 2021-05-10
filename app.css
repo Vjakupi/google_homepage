@@ -8,10 +8,11 @@ body {
 }
 
 img.logo  {
-    display: block;
+   display: block;
     margin-left: auto;
     margin-right: auto;
-    height: 92px; 
+    height: 92px;
+    padding: 192px;
    } 
 
    ul.head {
