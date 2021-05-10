@@ -3,17 +3,23 @@ body {
 }
 
 .form { 
-    
-   text-align: center;
-}
 
-img.logo  {
+    }
+
+div.main  {
    display: block;
     margin-left: auto;
     margin-right: auto;
-    height: 92px;
+    text-align: center;
     padding: 192px;
+   
    } 
+
+   img.logo{
+    height: 92px;
+   
+
+   }
 
    ul.head {
     list-style-type: none;
