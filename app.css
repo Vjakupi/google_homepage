@@ -1,6 +1,6 @@
 body {
     color: #fff
-    font-family: 'PT Sans', sans-serif;
+    font-family: 'PT Sans', 'sans-serif';
 }
 
 .form { 
@@ -8,7 +8,7 @@ body {
     }
 
 div.container  {
-   height: 100VH;
+   /* height: 100VH; */
    display: flex;
    justify-content: center;
    align-items: center;
@@ -16,7 +16,8 @@ div.container  {
    } 
 
    .flex-item {
-     width: 75%;
+     width: 100px;
+     height: 100px;
    }
 
    .logo{
@@ -87,6 +88,7 @@ div.container  {
     width:500px;
     font-size:16px;
     outline: none;
+    border-radius: 36%;
     
 }
 
