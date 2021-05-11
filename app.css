@@ -8,7 +8,7 @@ body {
     }
 
 div.container  {
-   /* height: 100VH; */
+   height: 100VH;
    display: flex;
    justify-content: center;
    align-items: center;
@@ -42,7 +42,7 @@ div.container  {
       height:20px;
       position:relative;
       top:5px;
-      left:10px;
+      left:60px;
     }
 
    ul.head {
