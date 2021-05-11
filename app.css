@@ -1,5 +1,6 @@
 body {
     color: #fff
+    font-family: 'PT Sans', sans-serif;
 }
 
 .form { 
@@ -63,6 +64,14 @@ div.main  {
     
 }
 
+.logo {
+
+}
+
+.buttons {
+    
+}
+
 .bar {
     margin:0 auto;
     width:575px;
@@ -70,5 +79,30 @@ div.main  {
     border:1px solid #dcdcdc;
       
 }
+
+.voice{
+    height:20px;
+    position:relative;
+    top:5px;
+    left:10px;
+  }
+
+  .sign {
+    background-color: #4885ed;
+    color: #fff;
+    border:none;
+    border-radius:3px;
+    padding:7px 10px;
+    position:relative;
+    bottom:7px;
+    font-weight:bold;
+  }
+  
+
+  .grid {
+    height:23px;
+    position:relative;
+    bottom:4px;
+  }
 
     
