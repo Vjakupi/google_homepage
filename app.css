@@ -8,13 +8,16 @@ body {
     }
 
 div.container  {
-   display: block;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
-    padding: 192px;
+   height: 100VH;
+   display: flex;
+   justify-content: center;
+   align-items: center;
    
    } 
+
+   .flex-item {
+     width: 75%;
+   }
 
    .logo{
     height: 92px;
@@ -28,7 +31,7 @@ div.container  {
   
   .bar {
       margin:0 auto;
-      width:575px;
+      width: 600px;
       border-radius:30px;
       border:1px solid #dcdcdc;
         
